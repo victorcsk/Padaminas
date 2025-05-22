@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "echo \"Build handled by postinstall\"",
+    "postinstall": "npx vite build",
     "preview": "vite preview"
   },
   "devDependencies": {
