@@ -87,9 +87,9 @@ function Home() {
         <div className="text-center md:text-left">
           <h3 className="text-xl font-semibold mb-4">About Us</h3>
           <p className="text-sm md:text-base">
-            Padaminas was born with the purpose of bringing the knowledge and tradition of Minas to New York.
+            Padaminas was founded with a mission: to bring the authentic flavors, knowledge, and traditions of Minas Gerais to New York
             <br />
-            With fresh ingredients and authentic recipes, our bakery is made with love for you and your family.
+            Crafted with fresh ingredients and traditional recipes, our bakery is a celebration of love, culture, and warmth—made especially for you and your family.
           </p>
         </div>
         <div>
@@ -107,8 +107,8 @@ function Home() {
       {/* Footer */}
       <footer className="bg-gray-100 py-6 px-4 text-center text-sm">
         <p><strong>Address:</strong> 66 W Lincoln Ave</p>
-        <p><strong>Hours:</strong> Mon–Fri: 7:00 AM – 6:00 PM | Sat–Sun: 8:00 AM – 4:00 PM</p>
-        <p><strong>Phone:</strong> (914) 530-7168</p>
+        <p><strong>Hours:</strong> Mon–Sat: 6:00 AM – 8:00 PM | Sun: 6:00 AM – 1:00 PM</p>
+        <p><strong>Phone:</strong> (914) 667-9101</p>
       </footer>
     </div>
   );
