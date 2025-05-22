@@ -85,11 +85,11 @@ function Home() {
       {/* About + Map */}
       <section className="px-4 pb-12 grid md:grid-cols-2 gap-8 items-center">
         <div className="text-center md:text-left">
-          <h3 className="text-xl font-semibold mb-4">About Us</h3>
+          <h3 className="text-xl font-semibold mb-4">Our Missions</h3>
           <p className="text-sm md:text-base">
-            Padaminas was founded with a mission: to bring the authentic flavors, knowledge, and traditions of Minas Gerais to New York
+            To spread joy through the taste of tradition — serving fresh, flavorful, and authentic Brazilian food made with heart.
             <br />
-            Crafted with fresh ingredients and traditional recipes, our bakery is a celebration of love, culture, and warmth—made especially for you and your family.
+            
           </p>
         </div>
         <div>
