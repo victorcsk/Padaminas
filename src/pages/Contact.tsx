@@ -37,7 +37,7 @@ function Contact() {
         <p><strong>Address:</strong> 66 W Lincoln Ave</p>
         <p><strong>Phone:</strong> (914) 530-7168</p>
         <p><strong>Email:</strong> contact@padaminasbakery.com</p>
-        <p><strong>Hours:</strong> Mon–Fri: 7:00 AM – 6:00 PM | Sat–Sun: 8:00 AM – 4:00 PM</p>
+        <p><strong>Hours:</strong> Mon–Sat: 5:00 AM – 6:00 PM | Sun: 6:00 AM – 4:00 PM</p>
       </div>
 
       {/* Map */}
