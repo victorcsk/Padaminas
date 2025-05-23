@@ -107,7 +107,7 @@ function Home() {
       {/* Footer */}
       <footer className="bg-gray-100 py-6 px-4 text-center text-sm">
         <p><strong>Address:</strong> 66 W Lincoln Ave</p>
-        <p><strong>Hours:</strong> Mon–Sat: 6:00 AM – 8:00 PM | Sun: 6:00 AM – 1:00 PM</p>
+        <p><strong>Hours:</strong> Mon–Sat: 5:00 AM – 8:00 PM | Sun: 6:00 AM – 1:00 PM</p>
         <p><strong>Phone:</strong> (914) 667-9101</p>
       </footer>
     </div>
