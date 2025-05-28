@@ -9,16 +9,19 @@ function About() {
       {/* Texto */}
       <div className="text-gray-700 text-lg space-y-6 text-justify">
         <p>
-          Padaminas Brazilian Bakery was founded with a simple but powerful mission: to bring the authentic taste and warmth of Minas Gerais to New York. What started as a small passion project soon became a beloved destination for Brazilians and locals alike who longed for traditional flavors, comfort, and community.
+          <strong>Over 20 years of flavor, warmth, and tradition.</strong>
         </p>
         <p>
-          At the heart of this journey is <strong>Pedro Coelho</strong>, a respected figure in the Brazilian-American community. A visionary entrepreneur and a symbol of resilience, Pedro turned a dream into reality through hard work, integrity, and a deep connection to his roots. His dedication not only built a successful bakery but also created a space where people feel at home, miles away from Brazil.
+          Padaminas Brazilian Bakery was founded more than two decades ago with a simple but powerful mission: to bring the authentic taste and warmth of Minas Gerais to New York. What began as a humble dream soon blossomed into a beloved destination for Brazilians and locals alike, offering traditional flavors, comfort, and a strong sense of community.
         </p>
         <p>
-          With freshly baked pão de queijo, sweet cakes, and savory snacks, Padaminas is more than just a bakery — it’s a tribute to tradition, family, and the immigrant spirit. Each recipe is a story. Each bite, a reminder of home.
+          At the center of this story is <strong>Pedro Coelho</strong> — a respected entrepreneur and symbol of resilience in the Brazilian-American community. Through hard work, integrity, and deep-rooted pride in his culture, Pedro turned Padaminas into more than a bakery. He created a space that feels like home, even thousands of miles from Brazil.
         </p>
         <p>
-          Today, the bakery continues to grow with branches in Connecticut, bringing the same quality and soul to new places, and staying committed to delivering joy, flavor, and warmth to every customer.
+          From our famous <em>pão de queijo</em> to sweet cakes and savory delights, Padaminas is a tribute to heritage, family, and the immigrant spirit. Each recipe carries a story. Each bite brings a memory.
+        </p>
+        <p>
+          Today, with branches in New York and Connecticut, Padaminas proudly continues its journey — committed to serving quality, spreading joy, and sharing the flavors of Brazil for generations to come.
         </p>
       </div>
 
