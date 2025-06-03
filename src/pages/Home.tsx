@@ -75,10 +75,10 @@ function Home() {
             <img src="/images/coxinha.jpg" alt="Coxinha" className="w-full h-32 object-cover rounded" />
             <p className="mt-2 text-sm">Coxinha</p>
           </div>
-          <div className="w-36">
-            <img src="/images/bolo-cenoura.jpg" alt="Carrot Cake" className="w-full h-32 object-cover rounded" />
-            <p className="mt-2 text-sm">Carrot Cake with Chocolate</p>
-          </div>
+         <div className="w-36">
+  <img src="/images/pamonha.jpg" alt="Pamonha" className="w-full h-32 object-cover rounded" />
+  <p className="mt-2 text-sm">Sweet Corn Pamonha</p>
+</div>
         </div>
       </section>
 
