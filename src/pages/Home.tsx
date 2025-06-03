@@ -76,7 +76,7 @@ function Home() {
             <p className="mt-2 text-sm">Coxinha</p>
           </div>
          <div className="w-36">
-  <img src="/images/pamonha.jpg" alt="Pamonha" className="w-full h-32 object-cover rounded" />
+  <img src="/images/pamonha.png" alt="Pamonha" className="w-full h-32 object-cover rounded" />
   <p className="mt-2 text-sm">Sweet Corn Pamonha</p>
 </div>
         </div>
